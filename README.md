@@ -1,2 +1,7 @@
-# CCNP-Notes
-This repo is for CCNP notes used to get better and study for the CCNP ENCOR 350-401 exam.
+# CCNP Notes
+
+Hello and welcome to the CCNP 350-401 ENCOR exam notes.
+
+Click on one of the objectives to get started and get better!
+
+[1.0 Architecture](1.0 Architecture)
