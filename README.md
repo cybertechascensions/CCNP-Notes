@@ -1,8 +1,8 @@
-# CCNP Notes
+# Welcome to the CCNP 350-401 ENCOR exam notes!
 
-Hello and welcome to the CCNP 350-401 ENCOR exam notes.
+## If you are thinking about or already pursuing the sought-after CCNP certification, you are in the right place!
 
-Click on one of the objectives to get started and get better!
+### Click on one of the objectives to get started and get better!
 
 [1.0 Architecture](1.0 Architecture/)
 
