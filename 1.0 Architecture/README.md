@@ -25,3 +25,5 @@ The main topics of discussion are:
  - Process and CEF
  - MAC address table and TCAM
  - FIB vs RIB
+
+[CCNP Notes](..) / **1.0 Architecture**
