@@ -26,4 +26,4 @@ The main topics of discussion are:
  - MAC address table and TCAM
  - FIB vs RIB
 
-[CCNP Notes](..) / **1.0 Architecture**
+[CCNP Notes](https://rcestep.github.io/CCNP-Notes) / **1.0 Architecture**
